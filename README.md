@@ -12,7 +12,7 @@
    * **Rejection rule** : Rejection null hypothesis if p value $\le$ level of significance.
    * Calculated p-value and zscore using scipy.stats library.
    * Results
-     * - The difference between mean failure rate of missing values and mean failure rate of values not missing is statistically significant only for measurement_3 and measurement_5.
+     * The difference between mean failure rate of missing values and mean failure rate of values not missing is statistically significant only for measurement_3 and measurement_5.
 
       - So, the null hypothesis for measurement_3 and measurement_5 will be rejected while for other features we cannot reject null hypothesis.
 
